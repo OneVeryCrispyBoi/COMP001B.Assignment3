@@ -16,15 +16,16 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	position: fixed; right: 50px;
+	width: 30%;
 }
 
 footer {
-
+position: fixed; left: 5px; bottom: 5px;
 }
 
 header {
-
+padding-bottom: 25px;
 }
 
 img {
@@ -32,11 +33,14 @@ img {
 }
 
 main {
-
+position: fixed; left: 150px;
+width: 30%;
 }
 
 nav {
-
+	position: fixed;
+float: left;
+padding-right: 15px;
 }
 
 #copyright {
